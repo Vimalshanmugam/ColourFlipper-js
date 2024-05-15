@@ -1,1 +1,1 @@
-Colour-Flipper : https://colour-filpper.netlify.app/
+ColourFlipper : https://colour-filpper.netlify.app/
